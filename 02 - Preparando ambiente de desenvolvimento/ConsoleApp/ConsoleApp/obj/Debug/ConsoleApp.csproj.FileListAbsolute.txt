@@ -1,0 +1,8 @@
+D:\Workspaces\Cursos\Softblue\02 - Preparando ambiente de desenvolvimento\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Workspaces\Cursos\Softblue\02 - Preparando ambiente de desenvolvimento\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Workspaces\Cursos\Softblue\02 - Preparando ambiente de desenvolvimento\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Workspaces\Cursos\Softblue\02 - Preparando ambiente de desenvolvimento\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\Workspaces\Cursos\Softblue\02 - Preparando ambiente de desenvolvimento\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Workspaces\Cursos\Softblue\02 - Preparando ambiente de desenvolvimento\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Workspaces\Cursos\Softblue\02 - Preparando ambiente de desenvolvimento\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Workspaces\Cursos\Softblue\02 - Preparando ambiente de desenvolvimento\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
