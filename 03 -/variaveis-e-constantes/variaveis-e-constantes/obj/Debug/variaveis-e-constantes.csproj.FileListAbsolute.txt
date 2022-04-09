@@ -1,0 +1,3 @@
+D:\Workspaces\Cursos\Softblue\03 -\variaveis-e-constantes\variaveis-e-constantes\obj\Debug\variaveis-e-constantes.csproj.AssemblyReference.cache
+D:\Workspaces\Cursos\Softblue\03 -\variaveis-e-constantes\variaveis-e-constantes\obj\Debug\variaveis-e-constantes.csproj.SuggestedBindingRedirects.cache
+D:\Workspaces\Cursos\Softblue\03 -\variaveis-e-constantes\variaveis-e-constantes\obj\Debug\variaveis-e-constantes.csproj.CoreCompileInputs.cache

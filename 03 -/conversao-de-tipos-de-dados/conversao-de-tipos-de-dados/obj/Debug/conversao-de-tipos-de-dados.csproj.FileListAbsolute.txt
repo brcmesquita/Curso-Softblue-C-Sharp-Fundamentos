@@ -1,0 +1,8 @@
+D:\Workspaces\Cursos\Softblue\03 -\conversao-de-tipos-de-dados\conversao-de-tipos-de-dados\bin\Debug\conversao-de-tipos-de-dados.exe.config
+D:\Workspaces\Cursos\Softblue\03 -\conversao-de-tipos-de-dados\conversao-de-tipos-de-dados\bin\Debug\conversao-de-tipos-de-dados.exe
+D:\Workspaces\Cursos\Softblue\03 -\conversao-de-tipos-de-dados\conversao-de-tipos-de-dados\bin\Debug\conversao-de-tipos-de-dados.pdb
+D:\Workspaces\Cursos\Softblue\03 -\conversao-de-tipos-de-dados\conversao-de-tipos-de-dados\obj\Debug\conversao-de-tipos-de-dados.csproj.AssemblyReference.cache
+D:\Workspaces\Cursos\Softblue\03 -\conversao-de-tipos-de-dados\conversao-de-tipos-de-dados\obj\Debug\conversao-de-tipos-de-dados.csproj.SuggestedBindingRedirects.cache
+D:\Workspaces\Cursos\Softblue\03 -\conversao-de-tipos-de-dados\conversao-de-tipos-de-dados\obj\Debug\conversao-de-tipos-de-dados.csproj.CoreCompileInputs.cache
+D:\Workspaces\Cursos\Softblue\03 -\conversao-de-tipos-de-dados\conversao-de-tipos-de-dados\obj\Debug\conversao-de-tipos-de-dados.exe
+D:\Workspaces\Cursos\Softblue\03 -\conversao-de-tipos-de-dados\conversao-de-tipos-de-dados\obj\Debug\conversao-de-tipos-de-dados.pdb

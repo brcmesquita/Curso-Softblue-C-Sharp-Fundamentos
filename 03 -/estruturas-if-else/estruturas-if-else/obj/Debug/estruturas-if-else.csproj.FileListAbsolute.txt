@@ -1,0 +1,8 @@
+D:\Workspaces\Cursos\Softblue\03 -\estruturas-if-else\estruturas-if-else\bin\Debug\estruturas-if-else.exe.config
+D:\Workspaces\Cursos\Softblue\03 -\estruturas-if-else\estruturas-if-else\bin\Debug\estruturas-if-else.exe
+D:\Workspaces\Cursos\Softblue\03 -\estruturas-if-else\estruturas-if-else\bin\Debug\estruturas-if-else.pdb
+D:\Workspaces\Cursos\Softblue\03 -\estruturas-if-else\estruturas-if-else\obj\Debug\estruturas-if-else.csproj.AssemblyReference.cache
+D:\Workspaces\Cursos\Softblue\03 -\estruturas-if-else\estruturas-if-else\obj\Debug\estruturas-if-else.csproj.SuggestedBindingRedirects.cache
+D:\Workspaces\Cursos\Softblue\03 -\estruturas-if-else\estruturas-if-else\obj\Debug\estruturas-if-else.csproj.CoreCompileInputs.cache
+D:\Workspaces\Cursos\Softblue\03 -\estruturas-if-else\estruturas-if-else\obj\Debug\estruturas-if-else.exe
+D:\Workspaces\Cursos\Softblue\03 -\estruturas-if-else\estruturas-if-else\obj\Debug\estruturas-if-else.pdb
