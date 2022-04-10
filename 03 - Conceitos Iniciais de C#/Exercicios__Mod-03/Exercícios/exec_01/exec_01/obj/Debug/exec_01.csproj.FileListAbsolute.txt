@@ -1,0 +1,8 @@
+D:\Workspaces\Cursos\Softblue\03 -\exec_01\exec_01\bin\Debug\exec_01.exe.config
+D:\Workspaces\Cursos\Softblue\03 -\exec_01\exec_01\bin\Debug\exec_01.exe
+D:\Workspaces\Cursos\Softblue\03 -\exec_01\exec_01\bin\Debug\exec_01.pdb
+D:\Workspaces\Cursos\Softblue\03 -\exec_01\exec_01\obj\Debug\exec_01.csproj.AssemblyReference.cache
+D:\Workspaces\Cursos\Softblue\03 -\exec_01\exec_01\obj\Debug\exec_01.csproj.SuggestedBindingRedirects.cache
+D:\Workspaces\Cursos\Softblue\03 -\exec_01\exec_01\obj\Debug\exec_01.csproj.CoreCompileInputs.cache
+D:\Workspaces\Cursos\Softblue\03 -\exec_01\exec_01\obj\Debug\exec_01.exe
+D:\Workspaces\Cursos\Softblue\03 -\exec_01\exec_01\obj\Debug\exec_01.pdb

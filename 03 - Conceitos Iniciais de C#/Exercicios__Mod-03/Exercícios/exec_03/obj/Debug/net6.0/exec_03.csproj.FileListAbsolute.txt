@@ -1,0 +1,15 @@
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\bin\Debug\net6.0\exec_03.exe
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\bin\Debug\net6.0\exec_03.deps.json
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\bin\Debug\net6.0\exec_03.runtimeconfig.json
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\bin\Debug\net6.0\exec_03.dll
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\bin\Debug\net6.0\exec_03.pdb
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\exec_03.csproj.AssemblyReference.cache
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\exec_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\exec_03.AssemblyInfoInputs.cache
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\exec_03.AssemblyInfo.cs
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\exec_03.csproj.CoreCompileInputs.cache
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\exec_03.dll
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\refint\exec_03.dll
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\exec_03.pdb
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\exec_03.genruntimeconfig.cache
+D:\Workspaces\Cursos\Softblue\C#\03 - Conceitos Iniciais de C#\Exercicios__Mod-03\Exercícios\exec_03\obj\Debug\net6.0\ref\exec_03.dll
